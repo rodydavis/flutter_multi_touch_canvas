@@ -7,6 +7,8 @@ If you ever wanted to create a canvas in [Flutter](https://flutter.dev) that nee
 
 Online demo: https://rodydavis.github.io/flutter_multi_touch_canvas/
 
+This is the canvas rendering logic used in https://widget.studio
+
 ## Multi Touch Goal
 
 * Pan the canvas with two or more fingers
